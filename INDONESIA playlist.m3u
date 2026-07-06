@@ -249,6 +249,10 @@ http://103.58.160.157:8278/720-TRANS7/playlist.m3u8|User-Agent=Mozilla/5.0 (Wind
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" tvg-id="Trans7.id" tvg-name="Trans7" ,Trans 7 Alternative 2
 https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd|license_type=clearkey&license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="ðŸ‡®ðŸ‡©INDONESIAðŸ‡®ðŸ‡©",TRANS 7 DIGITAL
+http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
+
 ========================================================== CNN Indonesia =====================================================================
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="INDONESIA",CNN INDONESIA
