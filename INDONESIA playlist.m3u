@@ -194,7 +194,7 @@ http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
 http://165.99.194.31:9981/stream/channelid/1906776438?profile=pass
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="🇮🇩INDONESIA🇮🇩", TRANS 7 DT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", TRANS 7 DT
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
