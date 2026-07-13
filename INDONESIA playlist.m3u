@@ -254,6 +254,10 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", TRANS 7 20detik
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1642386827_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODM5NDE4NzU0NjMmd293emF0b2tlbmhhc2g9YmhoQ2F5cm9MYzhRZjBuMVFjSVM1N1VkNVhKX1ZvSm5uVVd0eXNGOVJLRT0=.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", TRANS 7 TM
+https://live.eu-north-1a.cf.dmcdn.net/sec2(WmBHXcnxflgiWaqJaZqdTHLUWMlQzVZIIKIr57HA6C2bhnF238cz3x9LMmUQANIGFFOGlAoM23IoclgCIh0h0SRBs2og2EDUoXO-Lu7GE0Cw2ysX6_Jd8HRzbfOzl5-p)/dm/3/x8qckyq/d/live-480.m3u8
+
 ========================================================== CNN Indonesia =====================================================================
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="INDONESIA",CNN INDONESIA
