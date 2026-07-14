@@ -255,8 +255,8 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w2064230806_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQwMDQ2MTUwODcmd293emF0b2tlbmhhc2g9cUJXT2l1RWNrTDEydTlqNW45NmFTOE82cmNHV1ZkNV9DVDlySlFCRFRQTT0=.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", TRANS 7 TM
-https://live.eu-north-1a.cf.dmcdn.net/sec2(gUJRinsv6jc6-biMucHCap0efrn15Vh1iBJqIxgsVUDyVtBGApUqgxtP6Y8FCxjZ0YJlHxPbLOB0SDtopakejAIX_AiE38r_iVsi9jRCstLT_GVvjDe1qd5s67VQgoqA)/dm/3/x8qckyq/d/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", TRANS 7 TC
+https://live.eu-north-1a.cf.dmcdn.net/sec2(p4nl-tAd8kmZZDNKesNJYEWss5X7pQZw_vxQaSt3DC6l37gk8dMP6S7dwO33NjVfl_71uNz9XEsAHgwyRLeSM-j3FsUyRVkAJvMYXEAUaTbiXktXsFlDSfALyNwgYkbg)/dm/3/x8qckyq/d/live-480.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 DIGITAL (S4)
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
