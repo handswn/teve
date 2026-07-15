@@ -182,6 +182,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="INDONESIA",TRANSTV CH
 http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDONESIA", Trans TV V+
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
 ========================================================== Trans 7 =====================================================================
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="INDONESIA",TRANS 7 CH
@@ -253,9 +260,9 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", TRANS 7 20detik
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w2064230806_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQwMDQ2MTUwODcmd293emF0b2tlbmhhc2g9cUJXT2l1RWNrTDEydTlqNW45NmFTOE82cmNHV1ZkNV9DVDlySlFCRFRQTT0=.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", TRANS 7 TC
-https://live.eu-north-1a.cf.dmcdn.net/sec2(p4nl-tAd8kmZZDNKesNJYEWss5X7pQZw_vxQaSt3DC6l37gk8dMP6S7dwO33NjVfl_71uNz9XEsAHgwyRLeSM-j3FsUyRVkAJvMYXEAUaTbiXktXsFlDSfALyNwgYkbg)/dm/3/x8qckyq/d/live-480.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(pUgiNWrhxyyyrBXVVeo9dZ9kJyjHb0KPe5da8JIXavT5taMdA7HsLz54syfphpSqU6aqJsfYfsn7CofJppS7IMw_TBhWzBLx8xSADr2pya0DvHL463hkbrSFQ3hMuQ3F)/dm/3/x8qckyq/d/live-240.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 DIGITAL (S4)
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
